@@ -1,0 +1,19 @@
+body {background-color: #FFFFCC;
+	  color: #000000;
+	  text-align: center;
+}
+	  
+a {text-decoration: none}
+a:link {color: #008000}
+a:active {color: #008000}
+a:hover {color: #ff9200}
+a:visited {color: #800000}
+
+div.title {color: #336600;
+		   font-weight: bold;
+}
+
+div.copyright {color: #000000}
+
+p {text-align: left;
+}
