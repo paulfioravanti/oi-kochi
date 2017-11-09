@@ -67,6 +67,12 @@ Mobile: `$ git subtree push --prefix mobile heroku-oi-kochi-mobile master`
   [PHP Heroku buildpack](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-php)
   was the path of least resistance for this.
 
+## License
+
+All content in articles (including HTML and PDF files) is licensed
+under the [Creative Commons Attribution 4.0 license](LICENSE-CC-BY-4.0.txt),
+and all source code is licensed under the [MIT license](LICENSE-MIT.txt).
+
 ## Social
 
 [![Contact](https://img.shields.io/badge/contact-%40paulfioravanti-blue.svg)](https://twitter.com/paulfioravanti)
