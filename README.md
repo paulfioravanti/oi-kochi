@@ -12,7 +12,7 @@ In the early 2000s, Japan was using clamshell-style
 
 The code in this repo is terrible, since I had no idea what I was really doing
 at the time, but I've left it pretty much as it was written, except for any
-changes that needed to be peformed to allow the pages to be deployed to
+changes that needed to be performed to allow the pages to be deployed to
 [Heroku][heroku] and work as expected.
 So, it simply stands as a historical record.
 
@@ -78,15 +78,8 @@ and all source code is licensed under the [MIT license][license-mit].
 
 ## Social
 
-[![Contact][twitter-badge]][twitter-url]
-
-<a href="http://stackoverflow.com/users/567863/paul-fioravanti">
-  <img src="http://stackoverflow.com/users/flair/567863.png"
-       width="208"
-       height="58"
-       alt="profile for Paul Fioravanti at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
-       title="profile for Paul Fioravanti at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+[![Contact][twitter-badge]][twitter-url]<br />
+[![Stack Overflow][stackoverflow-badge]][stackoverflow-url]
 
 [access-key]: https://en.wikipedia.org/wiki/Access_key
 [au-by-kddi]: https://en.wikipedia.org/wiki/Au_(mobile_phone_company)
@@ -105,5 +98,7 @@ and all source code is licensed under the [MIT license][license-mit].
 [license-mit-badge]: https://img.shields.io/badge/License-MIT-lightgrey.svg
 [license-mit-url]: https://opensource.org/licenses/MIT
 [newsletters]: https://github.com/paulfioravanti/oi-kochi/tree/master/newsletters
+[stackoverflow-badge]: http://stackoverflow.com/users/flair/567863.png
+[stackoverflow-url]: http://stackoverflow.com/users/567863/paul-fioravanti
 [twitter-badge]: https://img.shields.io/badge/contact-%40paulfioravanti-blue.svg
 [twitter-url]: https://twitter.com/paulfioravanti
