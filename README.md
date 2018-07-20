@@ -1,5 +1,3 @@
-[//]: # (SPDX-License-Identifier: MIT AND CC-BY-4.0)
-
 # Oi! Kochi
 
 When I was on the [JET Programme][jet-programme] in
@@ -77,6 +75,8 @@ the different page subdirectories to their respective Heroku repos:
 All content in articles (including HTML and PDF files) is licensed
 under the [Creative Commons Attribution 4.0 license][license-cc],
 and all source code is licensed under the [MIT license][license-mit].
+
+SPDX-License-Identifier: MIT AND CC-BY-4.0
 
 ## Social
 
