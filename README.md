@@ -76,7 +76,7 @@ All content in articles (including HTML and PDF files) is licensed
 under the [Creative Commons Attribution 4.0 license][license-cc],
 and all source code is licensed under the [MIT license][license-mit].
 
-SPDX-License-Identifier: MIT AND CC-BY-4.0
+SPDX-License-Identifier: (MIT AND CC-BY-4.0)
 
 ## Social
 
