@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: MIT AND CC-BY-4.0)
+
 # Oi! Kochi
 
 When I was on the [JET Programme][jet-programme] in
