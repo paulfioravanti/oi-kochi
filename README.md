@@ -22,16 +22,16 @@ So, it simply stands as a historical record.
 
 The web pages can be viewed at the following URL:
 
-https://oi-kochi-web.herokuapp.com
+<https://oi-kochi-web.herokuapp.com>
 
 ## Mobile Pages
 
 The mobile pages can be viewed at the following URL:
 
-https://oi-kochi-mobile.herokuapp.com
+<https://oi-kochi-mobile.herokuapp.com>
 
 For the most period-accurate browsing experience, I'd recommend using an
-emulator that replicates the the old Japanese feature phones.
+emulator that replicates the old Japanese feature phones.
 The closest I've come to this is viewing the pages using the
 [Firefox][firefox] browser, along with the
 [FireMobileSimulator][fire-mobile-simulator] add-on. This will, at the very
