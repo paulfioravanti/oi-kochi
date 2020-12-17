@@ -30,14 +30,22 @@ The mobile pages can be viewed at the following URL:
 
 <https://www.paulfioravanti.com/oi-kochi/mobile>
 
-For the most period-accurate browsing experience, I'd recommend using an
-emulator that replicates the old Japanese feature phones.
-The closest I've come to this is viewing the pages using the
-[Firefox][] browser, along with the [FireMobileSimulator][] add-on. This will,
-at the very least, display the pages close to how I tested them at the time on
-my [AU by KDDI][] phone, and enable use of the keyboard to trigger
-[`accesskey` attributes][] in links (ie for a link with text "1. English", you
-can press the :one: number key on the phone to "click" on that link).
+## Viewing Pages
+
+For the most period-accurate browsing experience (simulating how the pages
+would have looked on my [AU by KDDI][] phone), I would have recommended using
+an emulator that replicates the old Japanese feature phones, the closest of
+which I've ever found is viewing the pages using the [Firefox][] browser, along
+with the [FireMobileSimulator][] add-on.
+
+Unfortunately, FireMobileSimulator is now dead and buried, with no future
+releases planned, and it does not work on current versions of Firefox. There are
+also no alternatives that I could find :disappointed:
+
+The only consolation is that you are able to trigger [`accesskey` attributes][]
+for links (ie for a link with text "1. English", you could press the :one:
+number key on the phone to "click" on that link) in Firefox and Chrome.
+See [Mozilla's `accesskey` page][] for the key shortcuts for your platform.
 
 ## Newsletters
 
@@ -68,7 +76,7 @@ SPDX-License-Identifier: (MIT AND CC-BY-4.0)
 [C-HTML]: https://en.wikipedia.org/wiki/C-HTML
 [feature phones]: https://en.wikipedia.org/wiki/Feature_phone#Japan
 [Firefox]: https://www.mozilla.org/en-US/firefox/new/
-[FireMobileSimulator]: https://addons.mozilla.org/en-US/firefox/addon/firemobilesimulator/
+[FireMobileSimulator]: http://firemobilesimulator.org/
 [Github Pages]: https://pages.github.com/
 [JET Programme]: http://jetprogramme.org/en/
 [Kochi Prefecture]: https://en.wikipedia.org/wiki/K%C5%8Dchi_Prefecture
@@ -78,6 +86,7 @@ SPDX-License-Identifier: (MIT AND CC-BY-4.0)
 [license-mit]: LICENSE-MIT.txt
 [license-mit-badge]: https://img.shields.io/badge/License-MIT-lightgrey.svg
 [license-mit-url]: https://opensource.org/licenses/MIT
+[Mozilla's `accesskey` page]: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey
 [`newsletters`]: https://github.com/paulfioravanti/oi-kochi/tree/master/newsletters
 [stackoverflow-badge]: http://stackoverflow.com/users/flair/567863.png
 [stackoverflow-url]: http://stackoverflow.com/users/567863/paul-fioravanti
