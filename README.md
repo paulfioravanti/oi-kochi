@@ -1,4 +1,4 @@
-<img src="/web/Common/RyomaReadingOi.gif" height="150" /><img src="/web/Common/Oi!Kochibannerlogosmall.gif" height="120" /><img src="/web/Common/Kochimap.gif" height="130" />
+<img src="web/Common/RyomaReadingOi.gif" height="150" /><img src="web/Common/Oi!Kochibannerlogosmall.gif" height="120" /><img src="web/Common/Kochimap.gif" height="130" />
 
 # Oi! Kochi
 
