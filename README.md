@@ -30,6 +30,11 @@ The mobile pages can be viewed at the following URL:
 
 <https://www.paulfioravanti.com/oi-kochi/mobile>
 
+## Blog Post
+
+This repository has a companion blog post here: _[Oi! Kochi: Japanese Feature
+Phone-driven Development][]_.
+
 ## Viewing Pages
 
 For the most period-accurate browsing experience (simulating how the pages
@@ -88,6 +93,7 @@ SPDX-License-Identifier: (MIT AND CC-BY-4.0)
 [license-mit-url]: https://opensource.org/licenses/MIT
 [Mozilla's `accesskey` page]: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey
 [`newsletters`]: https://github.com/paulfioravanti/oi-kochi/tree/master/newsletters
+[Oi! Kochi: Japanese Feature Phone-driven Development]: https://www.paulfioravanti.com/blog/oi-kochi/
 [stackoverflow-badge]: http://stackoverflow.com/users/flair/567863.png
 [stackoverflow-url]: http://stackoverflow.com/users/567863/paul-fioravanti
 [twitter-badge]: https://img.shields.io/badge/contact-%40paulfioravanti-blue.svg
