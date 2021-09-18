@@ -18,22 +18,19 @@ changes that needed to be performed to allow the pages to be deployed to
 
 So, it simply stands as a historical record.
 
-## Web Pages
+## Sites
 
-The web pages can be viewed at the following URL:
+The site pages can be viewed at the following URLs:
 
-<https://www.paulfioravanti.com/oi-kochi/web/>
-
-## Mobile Pages
-
-The mobile pages can be viewed at the following URL:
-
-<https://www.paulfioravanti.com/oi-kochi/mobile>
+- Website: <https://www.paulfioravanti.com/oi-kochi/web/>
+- Mobile Website: <https://www.paulfioravanti.com/oi-kochi/mobile>
 
 ## Blog Post
 
-This repository has a companion blog post here: _[Oi! Kochi: Japanese Feature
-Phone-driven Development][]_.
+This repository has a companion blog post where I get a little bit more into
+the details about the sites:
+
+- _[Oi! Kochi: Japanese Feature Phone-driven Development][]_.
 
 ## Viewing Pages
 
